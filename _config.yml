@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Roger Mesen´s Web Site # the website title (if blank, full name will be used instead)
+title: Roger Mesén Delgado # the website title (if blank, full name will be used instead)
 first_name: Roger
 middle_name: L.
 last_name: Mesén Delgado
@@ -264,8 +264,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Mesen]
+  first_name: [Roger, L]
 
   style: apa
   locale: en
