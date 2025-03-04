@@ -6,7 +6,8 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2020/12/Roger_Mesen-150x150.jpg
+  image: prof_pic.jpg
+
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
