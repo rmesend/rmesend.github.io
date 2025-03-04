@@ -2,17 +2,21 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Roger Mesén Delgado # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Roger
-middle_name: L.
-last_name: Mesén Delgado
+middle_name:
+last_name: Mesen Delgado
 contact_note: mesendelgado@gmail.com
-  You can even add a little note about which of these is the best way to reach you.
+# You can even add a little note about which of these is the best way to reach you.
+Just send me an email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  I am Roger Mesén Delgado, a Data Scientist and GIS Specialist with extensive experience integrating geospatial analysis and data science to drive strategic decision-making. 
+  I have worked with Oracle databases and ESRI platforms (ArcGIS Pro, Survey123, AGOL), as well as libraries like Pandas, NumPy, and Scikit-Learn for developing machine learning models. 
+  My focus is on optimizing workflows, enhancing the efficiency and sustainability of agricultural production, and integrating sensor data, satellite imagery, and field observations into interactive applications. 
+  I am passionate about continuous improvement and innovation, and I leverage my project management skills to effectively plan, coordinate, and deliver complex initiatives, ensuring data-driven outcomes that benefit any organization.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: roger, roger mesen, smart farming, data science, pineapple # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
