@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Fresh Del Monte PINDECO</a>. Buenos Aires, Puntarenas, Costa Rica.
+subtitle: Smart farming. Data Scientist, PM
 profile:
   align: right
   image: rmd.jpg
