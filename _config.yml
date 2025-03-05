@@ -130,9 +130,13 @@ external_sources:
     posts:
       - url: https://aeroprecipe.com/recipes/2024-costa-rican-aeropress-national-round
         published_date: 2024-12-30
-  - name: sobre-el-amor-exe
-    post:
-        - url: https://delfino.cr/2020/12/sobre-el-amor-exe
+    - name: Aeroprecipe 2024 Costa Rican AeroPress National Round
+    posts:
+      - url: https://aeroprecipe.com/recipes/2024-costa-rican-aeropress-national-round
+        published_date: 2024-12-30
+      - name: sobre-el-amor-exe
+    posts:
+      - url: https://delfino.cr/2020/12/sobre-el-amor-exe
         published_date: 2020-12-30
   - name: nuevo corinto
     post:
