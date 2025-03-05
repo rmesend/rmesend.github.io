@@ -125,9 +125,11 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@rmesend/feed
-  - name: Google Blog
+  - name: https://aeroprecipe.com
+    rss_url: https://aeroprecipe.com/member/roger-mesen/created
+  - name: Aeroprecipe: 2024 Costa Rican AeroPress National Round
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+      - url: https://aeroprecipe.com/recipes/2024-costa-rican-aeropress-national-round
         published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
