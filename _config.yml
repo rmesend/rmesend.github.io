@@ -134,6 +134,10 @@ external_sources:
     post:
         - url: https://delfino.cr/2020/12/sobre-el-amor-exe
         published_date: 2020-12-30
+  - name: nuevo corinto
+    post:
+        - url: https://www.ucr.ac.cr/noticias/2015/02/19/exploran-sitio-arqueologico-nuevo-corinto-en-rio-frio.html
+        published_date: 2015-02-19
 
 # -----------------------------------------------------------------------------
 # Newsletter
