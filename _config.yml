@@ -130,11 +130,11 @@ external_sources:
     posts:
       - url: https://aeroprecipe.com/recipes/2024-costa-rican-aeropress-national-round
         published_date: 2024-12-30
-    - name: nuevo corinto
+  - name: nuevo corinto
     posts:
       - url: https://www.ucr.ac.cr/noticias/2015/02/19/exploran-sitio-arqueologico-nuevo-corinto-en-rio-frio.html
         published_date: 2015-12-30
-      - name: sobre-el-amor-exe
+  - name: sobre-el-amor-exe
     posts:
       - url: https://delfino.cr/2020/12/sobre-el-amor-exe
         published_date: 2020-12-30
