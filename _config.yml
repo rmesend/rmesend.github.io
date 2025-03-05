@@ -14,7 +14,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: roger, roger mesen, smart farming, data science, pineapple # add your own keywords or leave empty
+keywords: geography Costa Rica, roger mesen, smart farming, data science, pineapple # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌍 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -130,18 +130,14 @@ external_sources:
     posts:
       - url: https://aeroprecipe.com/recipes/2024-costa-rican-aeropress-national-round
         published_date: 2024-12-30
-    - name: Aeroprecipe 2024 Costa Rican AeroPress National Round
+    - name: nuevo corinto
     posts:
-      - url: https://aeroprecipe.com/recipes/2024-costa-rican-aeropress-national-round
-        published_date: 2024-12-30
+      - url: https://www.ucr.ac.cr/noticias/2015/02/19/exploran-sitio-arqueologico-nuevo-corinto-en-rio-frio.html
+        published_date: 2015-12-30
       - name: sobre-el-amor-exe
     posts:
       - url: https://delfino.cr/2020/12/sobre-el-amor-exe
         published_date: 2020-12-30
-  - name: nuevo corinto
-    post:
-        - url: https://www.ucr.ac.cr/noticias/2015/02/19/exploran-sitio-arqueologico-nuevo-corinto-en-rio-frio.html
-        published_date: 2015-02-19
 
 # -----------------------------------------------------------------------------
 # Newsletter
