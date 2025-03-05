@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I’m Roger Mesén Delgado, a Data Scientist and GIS Specialist with a strong background in project management. I excel at integrating geospatial analysis and data science to drive strategic decision-making in agricultural production and beyond. My experience spans ESRI platforms (ArcGIS Pro, Survey123, ArcGIS Online), Oracle databases, and data science libraries like Pandas, NumPy, and Scikit-Learn for machine learning. I’m passionate about continuous improvement, exploring new technologies, and building interactive applications that merge satellite imagery, real-time sensor data, and field observations.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Feel free to explore discussions on data science, machine learning, or simply discover interesting content!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
