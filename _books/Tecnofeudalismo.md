@@ -15,5 +15,4 @@ stars: 4
 goodreads_review: 9876543210
 status: In Progress
 ---
-
 En Tecnofeudalismo: El sigiloso sucesor del capitalismo, Yanis Varoufakis ofrece una mirada provocadora sobre cómo la tecnología y las plataformas digitales están transformando el capitalismo tradicional en una nueva forma de feudalismo. Con ejemplos que van desde la crisis de 2008 hasta el auge de las criptomonedas y los videojuegos, el autor desvela cómo las grandes tecnológicas se convierten en modernos señores feudales, acumulando poder a través del "capital de la nube" y profundizando la desigualdad. Es un ensayo revelador que invita a repensar el futuro de la economía y el rol que desempeñan las empresas en la configuración de nuestra sociedad.
