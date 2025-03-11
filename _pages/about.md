@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Soy Roger Mesén-Delgado, un apasionado científico de datos y analista geoespacial de Costa Rica. Mi formación académica incluye una licenciatura en Antropología y una maestría en Geografía por la Universidad de Costa Rica. Actualmente, me desempeño como Superintendente en Fresh Del Monte Produce Inc., donde aplico tecnologías de agricultura inteligente para optimizar procesos agrícolas. ​
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Mis intereses abarcan el análisis de datos, los sistemas de información geográfica (SIG), la programación en Python y la agricultura de precisión. He contribuido a la investigación arqueológica en Costa Rica, explorando rutas prehispánicas y coloniales en el Caribe costarricense. ​
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Comparto mis conocimientos y experiencias a través de artículos en Medium, donde escribo sobre datos, análisis espacial y otros temas relacionados. Además, colaboro en proyectos de código abierto en GitHub, centrados en ciencia de datos y SIG.​
+
+Me apasiona la intersección entre tecnología y agricultura, buscando soluciones innovadoras para los desafíos actuales en la producción de alimentos.
