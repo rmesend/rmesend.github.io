@@ -13,6 +13,6 @@ finished: 2025-02-15
 released: 2024
 stars: 4
 goodreads_review: 9876543210
-status: In Progress
+status: reading
 ---
 Estoy en proceso de lectura de esta obra
