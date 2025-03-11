@@ -191,6 +191,7 @@ exclude:
   - purgecss.config.js
   - README.md
   - readme_preview/
+  - _posts/2024-12-04-photo-gallery.md
   - vendor
 keep_files:
   - CNAME
