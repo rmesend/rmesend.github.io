@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Tecnofeudalismo: El sigiloso sucesor del capitalismo
+title: Tecnofeudalismo El sigiloso sucesor del capitalismo
 author: Yanis Varoufakis
 cover: assets/img/book_covers/tecnofeudalismo.jpg
 olid: OL12345678M
