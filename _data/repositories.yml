@@ -7,6 +7,5 @@ repo_description_lines_max: 2
 github_repos:
   - rmesend/ICECortesdeLuz
   - rmesend/Analisys_Economy_CRC
-  - rmesend/gee
-  - rmesend/IntroductionTimeSeries
+
 
