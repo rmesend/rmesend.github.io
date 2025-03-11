@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Soy Roger Mesén-Delgado, un apasionado científico de datos y analista geoespacial de Costa Rica. Mi formación académica incluye una licenciatura en Antropología y una maestría en Geografía por la Universidad de Costa Rica. Actualmente, me desempeño como Superintendente en Fresh Del Monte Produce Inc., donde aplico tecnologías de agricultura inteligente para optimizar procesos agrícolas. ​
+Soy Roger Mesén-Delgado, un apasionado científico de datos y analista geoespacial de Costa Rica. Mi formación académica incluye una Bach Antropología por la Universidad de Costa Rica. Actualmente, me desempeño como Superintendente en Fresh Del Monte Produce Inc., donde aplico tecnologías de agricultura inteligente para optimizar procesos agrícolas. ​
 
 Mis intereses abarcan el análisis de datos, los sistemas de información geográfica (SIG), la programación en Python y la agricultura de precisión. He contribuido a la investigación arqueológica en Costa Rica, explorando rutas prehispánicas y coloniales en el Caribe costarricense. ​
 
