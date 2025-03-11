@@ -83,17 +83,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/photo-gallery/";
         
       },
-    },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-      
-        title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-        
-      },
     },{id: "post-a-post-with-tabs",
       
         title: "a post with tabs",
@@ -237,6 +226,17 @@ ninja.data = [{
           window.location.href = "/blog/2023/jupyter-notebook/";
         
       },
+    },{id: "post-qué-es-la-aplicación-focalizada-con-dosis-variable-en-agricultura-y-por-qué-es-importante",
+      
+        title: '¿Qué es la aplicación focalizada con dosis variable en agricultura y por qué... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@rmesend/qu%C3%A9-es-la-aplicaci%C3%B3n-focalizada-con-dosis-variable-en-agricultura-y-por-qu%C3%A9-es-importante-8b92d54a24ed?source=rss-ca3ec824f7d9------2", "_blank");
+        
+      },
     },{id: "post-a-post-with-custom-blockquotes",
       
         title: "a post with custom blockquotes",
@@ -314,15 +314,15 @@ ninja.data = [{
           window.location.href = "/blog/2022/giscus-comments/";
         
       },
-    },{id: "post-displaying-external-posts-on-your-al-folio-blog",
+    },{id: "post-máquinas-de-soporte-vectorial-introducción",
       
-        title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Máquinas de Soporte Vectorial: Introducción <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
       description: "",
       section: "Posts",
       handler: () => {
         
-          window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+          window.open("https://medium.com/@rmesend/m%C3%A1quinas-de-soporte-vectorial-introducci%C3%B3n-6fd908563a4?source=rss-ca3ec824f7d9------2", "_blank");
         
       },
     },{id: "post-a-post-with-redirect",
@@ -356,6 +356,28 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2021/distill/";
+        
+      },
+    },{id: "post-sar-una-introducción",
+      
+        title: 'SAR — Una Introducción <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@rmesend/sar-una-introducci%C3%B3n-d7f29cb9edc6?source=rss-ca3ec824f7d9------2", "_blank");
+        
+      },
+    },{id: "post-sobre-el-amor-exe-delfino-cr",
+      
+        title: 'Sobre el Amor.exe - Delfino.cr <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Cuanto menos nos convenga nos impulsa más el deseo de lo inconveniente. Así es el amor, algo nos lleva.",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://delfino.cr/2020/12/sobre-el-amor-exe", "_blank");
         
       },
     },{id: "post-a-post-with-twitter",
