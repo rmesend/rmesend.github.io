@@ -446,8 +446,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "books-",
-          title: '',
+    },{id: "books-tecnofeudalismo-el-sigiloso-sucesor-del-capitalismo",
+          title: 'Tecnofeudalismo El sigiloso sucesor del capitalismo',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Tecno-Feudalismo/";
