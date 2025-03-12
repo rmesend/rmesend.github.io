@@ -222,6 +222,7 @@ exclude:
   - _posts/2024-04-29-typograms.md
   - _posts/2024-05-01-tabs.md
   - _posts/2024-12-04-photo-gallery.md
+  - _books/the_godfather.md
   - vendor
 keep_files:
   - CNAME
