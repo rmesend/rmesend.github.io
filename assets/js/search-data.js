@@ -138,22 +138,22 @@ ninja.data = [{
           window.open("https://semanariouniversidad.com/opinion/sociedad-app-para-la-autodisciplina/", "_blank");
         
       },
-    },{id: "post-just-a-moment",
+    },{id: "post-formas-de-homo-sacer-en-costa-rica-el-extranjero-semanario-universidad",
       
-        title: 'Just a moment... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Formas de homo sacer en Costa Rica: el extranjero • Semanario Universidad <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "",
+      description: "Costa Rica es una nación donde se enfatizan mucho los derechos humanos, en lo pura vida, pero ¿qué no tenemos en mente cuando decimos eso?",
       section: "Posts",
       handler: () => {
         
           window.open("https://semanariouniversidad.com/opinion/formas-de-homo-sacer-en-costa-rica-el-extranjero/", "_blank");
         
       },
-    },{id: "post-just-a-moment",
+    },{id: "post-futuros-protagonista-de-mad-max-semanario-universidad",
       
-        title: 'Just a moment... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: '¿Futuros protagonista de Mad Max? • Semanario Universidad <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "",
+      description: "En la actualidad uno de los trending topics alrededor del globo es el cambio climático antropogénico.",
       section: "Posts",
       handler: () => {
         
@@ -173,8 +173,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-first-post-jajaja-sparkles-smile-smile",
+          title: 'First post jajaja! :sparkles: :smile: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
