@@ -116,6 +116,17 @@ ninja.data = [{
           window.open("https://delfino.cr/2020/12/sobre-el-amor-exe", "_blank");
         
       },
+    },{id: "post-a-post-with-videos",
+      
+        title: "a post with videos",
+      
+      description: "Roger Mesen from Fresh Del Monte’s Smart Farming office (Pindeco Division) explained how replacing paper-based forms with digital solutions has boosted efficiency, reduced errors, and sped up decision-making. By training local team leaders to create and manage digital forms themselves, they cut back on paper usage, minimized manual data entry, and saved about two hours of work daily. This shift also supports broader precision agriculture goals, as real-time data, drone imagery, and sensor information help make farming operations more informed and cost-effective.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2020/SmartFarming/";
+        
+      },
     },{id: "post-just-a-moment",
       
         title: 'Just a moment... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
