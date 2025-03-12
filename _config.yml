@@ -129,6 +129,18 @@ external_sources:
     posts:
       - url: https://delfino.cr/2020/12/sobre-el-amor-exe
         published_date: 2020-12-30
+  - name: formas de homo-sacer - Semanario Universidad
+    posts:
+      - url: https://semanariouniversidad.com/opinion/formas-de-homo-sacer-en-costa-rica-el-extranjero/
+        published_date: 2018-05-05
+  - name: sociedad++ app para autodisciplina - semanario Universidad
+    posts:
+      - url: https://semanariouniversidad.com/opinion/sociedad-app-para-la-autodisciplina/
+        published_date: 2019-01-22
+  - name: ¿Futuros protagonista de Mad Max? - semanario Universidad
+    posts:
+      - url: https://semanariouniversidad.com/opinion/futuros-protagonista-mad-max/
+        published_date: 2017-09-05
 
 # -----------------------------------------------------------------------------
 # Newsletter
