@@ -127,11 +127,11 @@ ninja.data = [{
           window.location.href = "/blog/2020/SmartFarming/";
         
       },
-    },{id: "post-just-a-moment",
+    },{id: "post-sociedad-app-para-la-autodisciplina-semanario-universidad",
       
-        title: 'Just a moment... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Sociedad ++: App para la autodisciplina • Semanario Universidad <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "",
+      description: "Hoy en día vivimos en un mundo acelerado, sin tiempo para cuestionarnos qué está pasando y cuándo pasa; pero más importante",
       section: "Posts",
       handler: () => {
         
