@@ -116,9 +116,9 @@ ninja.data = [{
           window.open("https://delfino.cr/2020/12/sobre-el-amor-exe", "_blank");
         
       },
-    },{id: "post-a-post-with-videos",
+    },{id: "post-reunion-de-usuarios-esri-geotecnologías-roger-mesen-fresh-del-monte",
       
-        title: "a post with videos",
+        title: "Reunion de Usuarios Esri - Geotecnologías / Roger Mesen - Fresh Del Monte...",
       
       description: "Roger Mesen from Fresh Del Monte’s Smart Farming office (Pindeco Division) explained how replacing paper-based forms with digital solutions has boosted efficiency, reduced errors, and sped up decision-making. By training local team leaders to create and manage digital forms themselves, they cut back on paper usage, minimized manual data entry, and saved about two hours of work daily. This shift also supports broader precision agriculture goals, as real-time data, drone imagery, and sensor information help make farming operations more informed and cost-effective.",
       section: "Posts",
@@ -127,22 +127,22 @@ ninja.data = [{
           window.location.href = "/blog/2020/SmartFarming/";
         
       },
-    },{id: "post-sociedad-app-para-la-autodisciplina-semanario-universidad",
+    },{id: "post-just-a-moment",
       
-        title: 'Sociedad ++: App para la autodisciplina • Semanario Universidad <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Just a moment... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "Hoy en día vivimos en un mundo acelerado, sin tiempo para cuestionarnos qué está pasando y cuándo pasa; pero más importante",
+      description: "",
       section: "Posts",
       handler: () => {
         
           window.open("https://semanariouniversidad.com/opinion/sociedad-app-para-la-autodisciplina/", "_blank");
         
       },
-    },{id: "post-just-a-moment",
+    },{id: "post-formas-de-homo-sacer-en-costa-rica-el-extranjero-semanario-universidad",
       
-        title: 'Just a moment... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Formas de homo sacer en Costa Rica: el extranjero • Semanario Universidad <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "",
+      description: "Costa Rica es una nación donde se enfatizan mucho los derechos humanos, en lo pura vida, pero ¿qué no tenemos en mente cuando decimos eso?",
       section: "Posts",
       handler: () => {
         
