@@ -3,7 +3,7 @@ layout: post
 title: a post with videos
 date: 2020-11-26 21:01:00
 description: Roger Mesen from Fresh Del Monte’s Smart Farming office (Pindeco Division) explained how replacing paper-based forms with digital solutions has boosted efficiency, reduced errors, and sped up decision-making. By training local team leaders to create and manage digital forms themselves, they cut back on paper usage, minimized manual data entry, and saved about two hours of work daily. This shift also supports broader precision agriculture goals, as real-time data, drone imagery, and sensor information help make farming operations more informed and cost-effective.
-tags: formatting videos
+tags: Smart Farming, Fresh Del monte, ESRI
 categories: sample-posts
 ---
 <div class="container my-4">
