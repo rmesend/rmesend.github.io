@@ -141,6 +141,10 @@ external_sources:
     posts:
       - url: https://semanariouniversidad.com/opinion/futuros-protagonista-mad-max/
         published_date: 2017-09-05
+  - name: Credly Case Study - Roger Mesén-Delgado
+    posts:
+      - url: https://learn.credly.com/case-study/heres-how-esri-saw-huge-success-with-their-digital-credentialing-program
+        published_date: 2024-09-05
 
 # -----------------------------------------------------------------------------
 # Newsletter
