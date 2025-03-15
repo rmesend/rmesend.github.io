@@ -83,6 +83,17 @@ ninja.data = [{
           window.open("https://learn.credly.com/case-study/heres-how-esri-saw-huge-success-with-their-digital-credentialing-program", "_blank");
         
       },
+    },{id: "post-2024-costa-rican-aeropress-national-round-an-aeropress-recipe-by-roger-mesen",
+      
+        title: '2024 Costa Rican AeroPress National Round - an AeroPress recipe by Roger Mesen... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "A recipe with precise control of extraction from the 2024 WAC.",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://aeroprecipe.com/recipes/2024-costa-rican-aeropress-national-round", "_blank");
+        
+      },
     },{id: "post-qué-es-la-aplicación-focalizada-con-dosis-variable-en-agricultura-y-por-qué-es-importante",
       
         title: '¿Qué es la aplicación focalizada con dosis variable en agricultura y por qué... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
