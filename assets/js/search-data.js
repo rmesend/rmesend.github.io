@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-here-39-s-how-esri-saw-huge-success-with-their-digital-credentialing-program",
+            },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2025-03-15-Resumen-Completo-Vectores-Matrices/";
+        
+      },
+    },{id: "post-here-39-s-how-esri-saw-huge-success-with-their-digital-credentialing-program",
       
         title: 'Here&#39;s How Esri Saw Huge Success with their Digital Credentialing Program <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
@@ -160,11 +171,11 @@ ninja.data = [{
           window.open("https://semanariouniversidad.com/opinion/sociedad-app-para-la-autodisciplina/", "_blank");
         
       },
-    },{id: "post-just-a-moment",
+    },{id: "post-formas-de-homo-sacer-en-costa-rica-el-extranjero-semanario-universidad",
       
-        title: 'Just a moment... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Formas de homo sacer en Costa Rica: el extranjero • Semanario Universidad <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "",
+      description: "Costa Rica es una nación donde se enfatizan mucho los derechos humanos, en lo pura vida, pero ¿qué no tenemos en mente cuando decimos eso?",
       section: "Posts",
       handler: () => {
         
