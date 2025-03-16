@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resumen Completo: Vectores y Matrices
+title: Resumen Completo Vectores y Matrices
 date: 2025-03-15 09:06:00
 description: Un resumen claro y conciso sobre definiciones, operaciones y propiedades fundamentales de vectores y matrices, ideal para estudiar.
 tags: matrices vectores algebra UNED Algebra Lineal 
