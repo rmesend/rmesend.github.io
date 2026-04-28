@@ -138,9 +138,9 @@ ninja.data = [{
           window.open("https://medium.com/@rmesend/sar-una-introducci%C3%B3n-d7f29cb9edc6?source=rss-ca3ec824f7d9------2", "_blank");
         
       },
-    },{id: "post-sobre-el-amor-exe-delfino-cr",
+    },{id: "post-sobre-el-amor-exe",
       
-        title: 'Sobre el Amor.exe - Delfino.cr <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Sobre el Amor.exe <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
       description: "Cuanto menos nos convenga nos impulsa más el deseo de lo inconveniente. Así es el amor, algo nos lleva.",
       section: "Posts",
